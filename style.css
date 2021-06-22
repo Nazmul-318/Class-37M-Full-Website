@@ -873,14 +873,12 @@ button.btn-custom {
 }
 
 .footer-widget img {
-    margin-bottom: 20px;
-    margin-left: 50px;
+    margin-bottom: 20px;   
 }
 
 .footer-widget p {
     font-size: 15px;
-    line-height: 30px;
-    margin-left: 50px;
+    line-height: 30px;  
 }
 .footer-widget{
     position: relative;
@@ -919,9 +917,6 @@ button.btn-custom {
     letter-spacing: 1.5px;
     color: #e73a3e;
 }
-.footer-bottom{
-   
-}
 .footer-section a {
     color: #fff;
     text-decoration: none;
@@ -932,25 +927,19 @@ button.btn-custom {
 /*======================================*/
 .widget-social ul {
     display: flex;
-    margin-left: 50px;
+    margin-left: 0;
 }
-
 .widget-social ul li {
     padding: 10px 0;
-    margin: 0 !important;
 }
-
-.widget-social ul li span {
-    display: inline-block;
-    margin-right: 10px;
+.widget-social ul li {
+    display: inline-block;    
     font-size: 18px;
 }
-
 .widget-social ul li a {
     font-size: 20px;
     padding: 10px 10px;
 }
-
 .footer-copyright p {
     margin-bottom: 0;
 }
